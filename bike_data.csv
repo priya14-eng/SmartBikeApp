@@ -1,0 +1,7 @@
+
+Bike_Name,Speed(km/h),Load(kg),Terrain,Mileage(km/l)
+Bike A,35,70,City,45
+Bike B,40,80,Highway,50
+Bike C,30,65,Plain,42
+Bike D,45,90,Hill,38
+Bike E,50,75,City,48
